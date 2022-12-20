@@ -667,7 +667,6 @@ footer {
     .header__image-lg {
         filter: saturate(1) brightness(1);
         border: 1rem solid var(--color-bg-2);
-        border-radius: 15rem 15rem 0 0;
         overflow: hidden;
         width: 100%;
         top: 0;
@@ -797,7 +796,7 @@ footer {
 
     .header__image-lg {
         width: 80%;
-        height: 15rem;
+        height: 13rem;
         margin: 0 auto;
         margin-top: 7rem;
         overflow: hidden;
