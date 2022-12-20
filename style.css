@@ -519,11 +519,14 @@ header {
 /* ========================= FOOTER ========================= */
 footer {
     margin-top: 7rem;
+    margin-bottom: 2rem;
+    
 }
 
 .footer__container {
     border-top: 0.5rem solid var(--color-bg-4);
     padding-top: 5rem;
+    border-bottom: 0.5rem solid var(--color-bg-4);
     padding-bottom: 5rem;
 }
 
@@ -669,7 +672,9 @@ footer {
         width: 100%;
         top: 0;
         left: 0;
-    }
+       
+    
+}
 
     .empty {
         display: none;
@@ -792,11 +797,11 @@ footer {
 
     .header__image-lg {
         width: 80%;
-        height: 20rem;
+        height: 15rem;
         margin: 0 auto;
         margin-top: 7rem;
         overflow: hidden;
-        border-radius: 15rem 15rem 0 0;
+        border-radius: 0 0 0 0;
     }
     
     .header__head {
